@@ -1,0 +1,13 @@
+Entre ello: HTML, CSS, BOOTSTRAP, JAVASCRIPT, MYSQL, PHP, TEMPLATES, LARAVEL
+
+TAREA: 
+
+Desarrollo auth con Laravel
+CRUD en Laravel MVC sobre Clientes
+Actualizar la interfaz gráfica cargando Template a su gusto actualizando la interfaz gráfica de:
+LOGIN USUARIO
+REGISTRO USUARIO
+RECUPERACIÓN DE CONTRASEÑA USUARIO
+REGISTRO DE CLIENTE
+TABLA DE CLIENTES
+Deberá de grabar un video con un máximo de 5 min de duración, explicando y mostrando en código los archivos creados y modificados, así como mostrar la interfaz gráfica resultante,
